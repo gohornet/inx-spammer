@@ -17,7 +17,7 @@ require (
 	github.com/shirou/gopsutil v3.21.11+incompatible
 	github.com/wollac/iota-crypto-demo v0.0.0-20221117162917-b10619eccb98
 	go.uber.org/atomic v1.11.0
-	go.uber.org/dig v1.17.0
+	go.uber.org/dig v1.17.1
 	google.golang.org/grpc v1.57.0
 )
 
