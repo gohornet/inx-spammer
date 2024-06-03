@@ -18,7 +18,7 @@ require (
 	github.com/wollac/iota-crypto-demo v0.0.0-20221117162917-b10619eccb98
 	go.uber.org/atomic v1.11.0
 	go.uber.org/dig v1.17.0
-	google.golang.org/grpc v1.57.0
+	google.golang.org/grpc v1.57.1
 )
 
 require (
